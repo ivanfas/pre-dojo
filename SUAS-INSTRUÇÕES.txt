@@ -1,2 +1,6 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Ivan Filipe de Abrantes Stefani
+Aplicativo AmilTest - Teste para recrutamento
+Instrucoes:
+1) Colocar os arquivos amiltest.jar e activity.log em um diretorio local qualquer;
+2) Por linha de comando, no diretorio escolhido, execute "java -jar amiltest.jar";
+3) O relatorio e impresso na tela.
